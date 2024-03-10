@@ -1,0 +1,29 @@
+{
+    "personal_info": {
+      "name": "Balaji",
+      "address": "Blah Blah",
+      "phone": "1234567890",
+      "email": "blah@gmail.com"
+    },
+    "summary": "A Softwre Dev",
+    "education": [
+      {
+        "degree": " BE CSE",
+        "major": "Nil",
+        "school": "Good School",
+        "graduation_year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Programmer Analyst",
+        "company": "Flipkart",
+        "location": "Chennai"
+      }
+    ],
+    "skills": [
+      "Full Stack"
+    ]
+   
+  }
+  
